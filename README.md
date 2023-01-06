@@ -1,5 +1,5 @@
-![action status](https://github.com/udsm-dhis2-lab/nestjs-boilerplate/actions/workflows/create-pr.yml/badge.svg?branch=main)
-![release status](https://github.com/udsm-dhis2-lab/nestjs-boilerplate/actions/workflows/deploy.yml/badge.svg?branch=main)
+![action status](https://github.com/flexcodelabs/nestjs-boilerplate/actions/workflows/create-pr.yml/badge.svg?branch=main)
+![release status](https://github.com/flexcodelabs/nestjs-boilerplate/actions/workflows/deploy.yml/badge.svg?branch=main)
 
 ## Description
 
