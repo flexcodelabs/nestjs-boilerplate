@@ -2,7 +2,11 @@ dist
 node_modules
 README.md
 .gitignore
-.gitignore
+.github
 .prettierrc
-.eslintrc.js
+.eslintrc
 nest-cli.json
+docker
+Dockerfile
+Dockerfile*
+docker-compose*

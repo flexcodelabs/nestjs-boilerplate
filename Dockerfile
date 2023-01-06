@@ -1,4 +1,4 @@
-FROM node:14.17.1-alpine3.12
+FROM node:lts-alpine3.16
 WORKDIR /app/
 COPY . ./
 RUN npm i
